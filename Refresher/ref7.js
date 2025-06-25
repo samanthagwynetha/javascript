@@ -8,7 +8,7 @@ for (let i = 1; i <= 10; i++) {
 
 
 // For in loop
-/*const books = {
+const books = {
     title: "The Great Gatsby",
     author: "F. Scott Fitzgerald",
     year: 1925
@@ -16,12 +16,12 @@ for (let i = 1; i <= 10; i++) {
 
 for (let key in books) {
     console.log(`${key}: ${books[key]}`);
-}*/
+}
 
 
 //For loop of
-const books = ["Atomic Habits", "The Power of Habit", "Deep Work", "The 7 Habits of Highly Effective People"];
+// const books = ["Atomic Habits", "The Power of Habit", "Deep Work", "The 7 Habits of Highly Effective People"];
 
-for (let book of books) {
-    console.log(book);
-}
+// for (let book of books) {
+//     console.log(book);
+// }
